@@ -1,4 +1,5 @@
 # Salut, je suis Abdealt ! 👋
+[Click here for the English version](README-en.md)
 
 Je suis développeur passionné par l'informatique et les nouvelles technologie.
 
