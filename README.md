@@ -6,11 +6,12 @@ Actuelement en BAC +3 et en Alternance.
 
 ## 💻 Compétences Techniques
 
-| 🚀 Expert / Maîtrise avancée        | ⚙️ Intermédiaire / Bonnes connaissances     |
-|------------------------------------|--------------------------------------------|
+| 🚀 Maîtrise avancée              | ⚙️ Intermédiaire / Bonnes connaissances    |
+|-----------------------------------|--------------------------------------------|
 | - Go                              | - React                                    |
 | - Python                          | - JavaScript                               |
 | - PHP                             | - Java                                     |
+| - SQL & NoSQL                     |                                            |
 
 | 🌱 Débutant / Notions / En apprentissage | 🛠️ Outils & Frameworks / Technologies |
 |-------------------------------------------|---------------------------------------|
