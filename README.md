@@ -2,30 +2,20 @@
 
 Je suis développeur passionné par l'informatique et les nouvelles technologie.
 
+Actuelement en BAC +3 et en Alternance.
+
 ## 💻 Compétences Techniques
 
-### 🚀 Expert / Maîtrise avancée  
-- Go  
-- Python  
-- PHP  
+| 🚀 Expert / Maîtrise avancée        | ⚙️ Intermédiaire / Bonnes connaissances     |
+|------------------------------------|--------------------------------------------|
+| - Go                              | - React                                    |
+| - Python                          | - JavaScript                               |
+| - PHP                             | - Java                                     |
 
-### ⚙️ Intermédiaire / Bonnes connaissances  
-- React  
-- JavaScript  
-- Java  
-
-### 🌱 Débutant / Notions / En apprentissage  
-- Ruby  
-- Angular  
-- C#  
-- WLanguage  
-- Kotlin  
-
----
-
-## 🛠️ Outils & Frameworks / Technologies complémentaires  
-- Tailwind CSS  
-- Bootstrap  
-- HTMX  
-- Supabase  
-- Firebase  
+| 🌱 Débutant / Notions / En apprentissage | 🛠️ Outils & Frameworks / Technologies complémentaires |
+|-------------------------------------------|------------------------------------------------------|
+| - Ruby                                   | - Tailwind CSS                                       |
+| - Angular                                | - Bootstrap                                          |
+| - C#                                     | - HTMX                                              |
+| - WLanguage                              | - Supabase                                          |
+| - Kotlin                                 | - Firebase                                 
