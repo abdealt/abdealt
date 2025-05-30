@@ -1,4 +1,6 @@
 # Hi, I'm Abdealt! 👋
+This README is in English.  
+[Cliquez ici pour la version française](README.md)
 
 I'm a developer passionate about computer science and new technologies.
 
