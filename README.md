@@ -1,16 +1,31 @@
-## Hi there 👋
+# Salut, je suis Abdealt ! 👋
 
-<!--
-**abdealt/abdealt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeur passionné par l'informatique et les nouvelles technologie.
 
-Here are some ideas to get you started:
+## 💻 Compétences Techniques
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Expert / Maîtrise avancée  
+- Go  
+- Python  
+- PHP  
+
+### ⚙️ Intermédiaire / Bonnes connaissances  
+- React  
+- JavaScript  
+- Java  
+
+### 🌱 Débutant / Notions / En apprentissage  
+- Ruby  
+- Angular  
+- C#  
+- WLanguage  
+- Kotlin  
+
+---
+
+## 🛠️ Outils & Frameworks / Technologies complémentaires  
+- Tailwind CSS  
+- Bootstrap  
+- HTMX  
+- Supabase  
+- Firebase  
