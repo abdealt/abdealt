@@ -12,10 +12,10 @@ Actuelement en BAC +3 et en Alternance.
 | - Python                          | - JavaScript                               |
 | - PHP                             | - Java                                     |
 
-| 🌱 Débutant / Notions / En apprentissage | 🛠️ Outils & Frameworks / Technologies complémentaires |
-|-------------------------------------------|------------------------------------------------------|
-| - Ruby                                   | - Tailwind CSS                                       |
-| - Angular                                | - Bootstrap                                          |
-| - C#                                     | - HTMX                                              |
-| - WLanguage                              | - Supabase                                          |
+| 🌱 Débutant / Notions / En apprentissage | 🛠️ Outils & Frameworks / Technologies |
+|-------------------------------------------|---------------------------------------|
+| - Ruby                                   | - Tailwind CSS                         |
+| - Angular                                | - Bootstrap                            |
+| - C#                                     | - HTMX                                 |
+| - WLanguage                              | - Supabase                             |
 | - Kotlin                                 | - Firebase                                 
