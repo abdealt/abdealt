@@ -4,7 +4,7 @@ This README is in English.
 
 I'm a developer passionate about computer science and new technologies.
 
-Currently studying for a Bachelor's degree (BAC +3) and doing an apprenticeship.
+Currently studying for a Master's degree and doing an apprenticeship.
 
 ## 💻 Technical Skills
 
