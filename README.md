@@ -4,7 +4,7 @@ Ce README est en français.
 
 Je suis développeur passionné par l'informatique et les nouvelles technologie.
 
-Actuelement en BAC +3 et en Alternance.
+Actuelement etudiant en Master Informatique et en Alternance.
 
 ## 💻 Compétences Techniques
 
